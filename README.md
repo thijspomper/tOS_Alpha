@@ -1,7 +1,7 @@
-## tOS_Alpha
+# tOS_Alpha
  A simple esp8266 mqtt temperature logger.  
 
-# Requirements  
+## Requirements  
  This software depends on the following:  
  -[Arduino](https://github.com/arduino/Arduino)  
  -[ESP8266 Arduino](https://github.com/esp8266/Arduino)  
